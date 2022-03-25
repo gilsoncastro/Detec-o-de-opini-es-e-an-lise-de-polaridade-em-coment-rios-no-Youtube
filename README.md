@@ -1,4 +1,4 @@
-# Detecção de opiniões e análise de polaridade em comentários no Youtube
+# análise de polaridade em comentários no Youtube
 
 
 
